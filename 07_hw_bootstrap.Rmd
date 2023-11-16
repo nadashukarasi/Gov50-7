@@ -1,6 +1,6 @@
 ---
 title: "Problem Set 7: Rags to Riches TV and the American Dream "
-author: Nada Shukarasi
+author: Jonada Shukarasi
 output: pdf_document
 ---
 
